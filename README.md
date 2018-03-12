@@ -1,4 +1,4 @@
 # Chiffrement-S4
-- Gab : ElGamel \n
-Fab : RSA
-Nico : hashage
+- Gab : ElGamel
+- Fab : RSA
+- Nico : hashage
